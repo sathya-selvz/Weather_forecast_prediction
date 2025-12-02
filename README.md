@@ -1,4 +1,4 @@
-![Weather GIF](https://media.giphy.com/media/3oEjHCWdU7F4uJvT8Y/giphy.gif)
+![Weather GIF](screenshots/GIF.gif)
 
 
 # 🌦️ Weather Forecasting using Machine Learning
