@@ -39,10 +39,6 @@ Key highlights:
 ├── temp.csv                          
 ├── README.md                             
 └── screenshots/                               
-```
-
-If your dataset name is different, update it accordingly.
-
 ---
 
 ## 📊 3. Dataset Description
