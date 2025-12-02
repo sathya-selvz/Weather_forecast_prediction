@@ -1,4 +1,4 @@
-![Weather GIF](screenshots/GIF.gif)
+![Weather GIF](screenshots/GIF.png)
 
 
 # 🌦️ Weather Forecasting using Machine Learning
